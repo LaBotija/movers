@@ -1,3 +1,3 @@
 # movers
 this is a trial
-trying to figure ou this
+ok so how do i delete an old branch
